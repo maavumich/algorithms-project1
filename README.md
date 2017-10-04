@@ -12,6 +12,7 @@ Your implementation of Harris corner detector should follow ["A combined corner 
  * You should find the second moment matrix using convolution.
  * You should implement a 2 by 2 EVD to find the corner response function (Just the eigenvalues are sufficient for this project).
  * You should implement your own non-maximal supression [Hint: what is the relation between a dialation and max filter?].
+ * Your solution should have proper class design and adhere to the MAAV style guide.
  * We do not plan to release any starter code.
 
 ## 4. References
